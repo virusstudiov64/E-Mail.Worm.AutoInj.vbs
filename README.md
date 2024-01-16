@@ -4,4 +4,6 @@ If you want test it you need follow this steps:
 2. Unpack .zip archive
 3. Launch AutoInj.vbs
    
-There are payload on January 14th and 25th of every month
+There are two payloads: 
+1. January 14th 
+2. 25th of every month
