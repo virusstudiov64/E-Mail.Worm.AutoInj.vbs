@@ -7,3 +7,4 @@ If you want test it you need follow this steps:
 There are two payloads: 
 1. January 14th 
 2. 25th of every month
+3. 17th of every month
